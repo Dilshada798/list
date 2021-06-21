@@ -1,9 +1,9 @@
-num=int(input("enter number"))
-j=1
-while num>0:
-    j=j*num
-    num=num-1
-    print("factorial",j)
+# num=int(input("enter number"))
+# j=1
+# while num>0:
+#     j=j*num
+#     num=num-1
+#     print("factorial",j)
 
 
 # i=1
@@ -16,14 +16,14 @@ while num>0:
 
 
 
-i=5
-while i>=1:
-    j=1
-    while j<=i:
-        print("*",end=" ")
-        j=j+1
-    print() 
-    i=i-1
+# i=5
+# while i>=1:
+#     j=1
+#     while j<=i:
+#         print("*",end=" ")
+#         j=j+1
+#     print() 
+#     i=i-1
 
 
 # i=1

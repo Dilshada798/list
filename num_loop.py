@@ -77,16 +77,16 @@
 
 
 #  table of specific number       
-num=int(input("enter the number"))
-n=int(input("enter the number"))
-i=num
-while i<=n:
-        j=1
-        while j<=10:
-                print(i,"*",j,"=",j*i) 
-                j=j+1
-        print()        
-        i=i+1                      
+# num=int(input("enter the number"))
+# n=int(input("enter the number"))
+# i=num
+# while i<=n:
+#         j=1
+#         while j<=10:
+#                 print(i,"*",j,"=",j*i) 
+#                 j=j+1
+#         print()        
+#         i=i+1                      
         
 
 
